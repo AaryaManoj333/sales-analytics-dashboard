@@ -10,7 +10,7 @@ The goal was to transform raw sales data into a visual narrative to assist in un
 ![Dashboard Preview](sales-dashboard.png)
 
 
-## 📂 Key Features & Visualizations
+##  Key Features & Visualizations
 
 The dashboard includes the following dynamic visualizations:
 
@@ -21,7 +21,7 @@ The dashboard includes the following dynamic visualizations:
 5.  **Monthly Sales (Area Chart):** visualizes seasonality and sales fluctuations throughout the year.
 6.  **Top 5 Customers (Pie Chart):** Identifies the most profitable individual clients to aid in customer relationship management.
 
-## 🛠️ Tools & Technologies Used
+##  Tools & Technologies Used
 
  **Microsoft Excel:** Core tool for data analysis and visualization.
 **Pivot Tables:** Used to summarize raw data for the dashboard charts.
@@ -30,7 +30,7 @@ The dashboard includes the following dynamic visualizations:
 
 ---
 
-## 🔍 Key Insights Derived
+##  Key Insights Derived
 
 Based on the dashboard analysis:
 * **Product Performance:** *Technology* is the leading category in terms of profit growth over time, sharply increasing towards 2017.
@@ -40,7 +40,7 @@ Based on the dashboard analysis:
 
 ---
 
-## 🚀 How to Use
+##  How to Use
 1.  **Download** the Excel file from this repository.
 2.  **Open** the file in Microsoft Excel.
 3.  **Interact:** Use the Slicers at the top right to filter by:
